@@ -1,0 +1,21 @@
+m going to share some of them, so you can try for yourself. 
+ 
+✔List (ls) - Shows the files, folders, and directories within the system
+ 
+✔Change Directory (cd) - changes between directories
+ 
+✔Move (mv) - moves a file from a folder directory to another 
+ 
+✔Manual (man) - shows helpful information about that command
+ 
+✔Make directory (mkdir) - makes a new empty folder or directory inside the filesystem
+ 
+✔Remove directory (rmdir) - Removes and EMPTY, existing folder or directory
+ 
+✔Touch (touch) - Makes a file using the command line
+ 
+✔Remove directory (rmdir) - removes files and directories
+ 
+✔Locate (locate) finds a file within the file system
+ 
+✔Clear (clear) - clears the terminal
